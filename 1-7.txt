@@ -1,0 +1,18 @@
+8.ip addr
+ sudo apt update
+ sudo apt install openssh-server
+ sudo systemctl start ssh
+ sudo systemctl enable ssh
+ scp ~/Desktop/abc.txt kali@ipaddr:/home/kali/Desktop
+
+1.virtualbox
+ get kali
+
+2.https://www.npackd.org/p/com.google.AppEnginePythonSDK/1.9.62
+ python 2.7 insatll
+
+5.create clone and change network ips
+ ip addr
+ ping ipaddr -c 4
+
+7.
